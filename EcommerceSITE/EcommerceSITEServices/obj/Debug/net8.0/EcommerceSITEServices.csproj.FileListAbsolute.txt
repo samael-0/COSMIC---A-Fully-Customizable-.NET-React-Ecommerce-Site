@@ -1,0 +1,11 @@
+D:\.net console apps\WEBAPI\EcommerceSITE\EcommerceSITEServices\bin\Debug\net8.0\EcommerceSITEServices.deps.json
+D:\.net console apps\WEBAPI\EcommerceSITE\EcommerceSITEServices\bin\Debug\net8.0\EcommerceSITEServices.dll
+D:\.net console apps\WEBAPI\EcommerceSITE\EcommerceSITEServices\bin\Debug\net8.0\EcommerceSITEServices.pdb
+D:\.net console apps\WEBAPI\EcommerceSITE\EcommerceSITEServices\obj\Debug\net8.0\EcommerceSITEServices.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net console apps\WEBAPI\EcommerceSITE\EcommerceSITEServices\obj\Debug\net8.0\EcommerceSITEServices.AssemblyInfoInputs.cache
+D:\.net console apps\WEBAPI\EcommerceSITE\EcommerceSITEServices\obj\Debug\net8.0\EcommerceSITEServices.AssemblyInfo.cs
+D:\.net console apps\WEBAPI\EcommerceSITE\EcommerceSITEServices\obj\Debug\net8.0\EcommerceSITEServices.csproj.CoreCompileInputs.cache
+D:\.net console apps\WEBAPI\EcommerceSITE\EcommerceSITEServices\obj\Debug\net8.0\EcommerceSITEServices.dll
+D:\.net console apps\WEBAPI\EcommerceSITE\EcommerceSITEServices\obj\Debug\net8.0\refint\EcommerceSITEServices.dll
+D:\.net console apps\WEBAPI\EcommerceSITE\EcommerceSITEServices\obj\Debug\net8.0\EcommerceSITEServices.pdb
+D:\.net console apps\WEBAPI\EcommerceSITE\EcommerceSITEServices\obj\Debug\net8.0\ref\EcommerceSITEServices.dll

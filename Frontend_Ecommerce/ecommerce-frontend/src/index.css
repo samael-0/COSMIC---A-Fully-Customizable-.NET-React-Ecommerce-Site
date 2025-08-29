@@ -1,0 +1,97 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&family=Sedgwick+Ave+Display&display=swap");
+@import "tailwindcss";
+@custom-variant dark (&:where(.dark, .dark *));
+
+
+@theme{
+--color-primary: #ffffff;
+--color-primary-dark:#0d0d0d;
+--color-primary-navdark:#111827;
+--color-nav: #F7F7F2;
+
+
+ --color-darktext: #ffffff;
+}
+
+
+ :root {
+  --bg-color: #ffffff;
+  --text-color: #000000;
+
+}
+
+
+
+
+
+
+/*
+.dark {
+  --bg-color: #0b0b0b; 
+  --text-color: #f9fafb; 
+} */
+
+
+body {
+  background-color: var(--bg-color);
+  color: var(--text-color);
+   font-family: var(--font-poppins);
+}
+
+
+
+@theme {
+  --font-poppins: "Poppins", sans-serif;
+  --font-sedwick: "Sedgwick Ave Display", cursive;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+* {
+  box-sizing: border-box; /* makes sizing predictable */
+}
+
+@keyframes example {
+  from {
+    transform: translateX(-100%);
+  }
+  to {
+    transform: translateX(0%);
+  }
+}
+
+.slidein {
+  animation: example 5s;
+}
+
+.switch {
+  /* width: 170px;
+  height: 100px; */
+  border-radius: 50px;
+  background-color: #ccc;
+  display: flex;
+  align-items: center;
+  padding: 7px;
+  cursor: pointer;
+  position: relative;
+}
+
+.switch.on {
+  background-color: #4ade80;
+}
+
+.slider {
+  /* width: 80px;
+  height: 80px; */
+  background-color: #fff;
+  border-radius: 50%;
+  transition: transform 0.3s ease;
+}
+
+.switch.on .slider {
+  transform: translateX(15px);
+}
