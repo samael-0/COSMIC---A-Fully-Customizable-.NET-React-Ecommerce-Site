@@ -1,49 +1,14 @@
-# -------------------------------
-# ASP.NET / .NET Core
-# -------------------------------
+# ASP.NET / .NET
 bin/
 obj/
 *.dll
 *.exe
 *.pdb
-*.user
-*.vs/
-*.db
-*.suo
 *.log
-*.vscode/
-*.vsconfig
 appsettings*.json
-wwwroot/lib/
-node_modules/
-*.nupkg
-*.dotCover
-TestResults/
-.vs/
 
-# -------------------------------
 # React / Node.js
-# -------------------------------
-node_modules/
-build/
-dist/
-.env
-.env.local
-.env.development.local
-.env.test.local
-.env.production.local
-npm-debug.log*
-yarn-debug.log*
-yarn-error.log*
-pnpm-debug.log*
-.DS_Store
-.idea/
-.vscode/
-
-# -------------------------------
-# Misc / OS
-# -------------------------------
-*.swp
-*.swo
-Thumbs.db
-.DS_Store
+Frontend_Ecommerce/ecommerce-frontend/node_modules/
+Frontend_Ecommerce/ecommerce-frontend/build/
+Frontend_Ecommerce/ecommerce-frontend/dist/
+Frontend_Ecommerce/ecommerce-frontend/.env
